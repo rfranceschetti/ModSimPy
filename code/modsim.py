@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import scipy
-import sympy
+import simpy
 
 import seaborn as sns
 sns.set(style='white', font_scale=1.2)
